@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Built-By: owner
+Build-Jdk: 11.0.6
+Specification-Title: COVID-19 TEST APPLICATION
+Specification-Version: 1.0.0-SNAPSHOT
+Specification-Vendor: WSO2
+Implementation-Title: COVID-19 TEST APPLICATION
+Implementation-Version: 1.0.0-SNAPSHOT
+Implementation-Vendor-Id: org.example
+Implementation-Vendor: WSO2
+Implementation-URL: https://www.wso2.org/v-service/
+Created-By: Maven Integration for Eclipse
+

@@ -1,0 +1,7 @@
+ca\datext\test\covid\processing\ProcessDocument.class
+ca\datext\test\covid\domain\ISO3166Codes.class
+ca\datext\test\covid\domain\Country.class
+ca\datext\test\covid\InitializeCache.class
+ca\datext\test\covid\Application.class
+ca\datext\test\covid\processing\ProcessParagraphs.class
+ca\datext\test\covid\CovidService.class
